@@ -1,2 +1,2 @@
-# Consumption analysis on netflix
-Análisis de consumo de Netflix con Python
+# Consumption analysis on Netflix
+Análisis de consumo en Netflix con Python
